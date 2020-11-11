@@ -1,6 +1,3 @@
-USE OTIS
---USE CDS
-
 DECLARE @SearchText varchar(1000) = '%V2%',
 		@Schema varchar(1000) = '%blue%';
 
