@@ -1,5 +1,3 @@
-USE Merlin
-
 SELECT
 	[schema].name as [SchemaName],
 	[table].name as [TableName],
